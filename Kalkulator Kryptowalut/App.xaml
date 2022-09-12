@@ -4,6 +4,6 @@
              xmlns:local="clr-namespace:Kalkulator_Kryptowalut"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
-         
+
     </Application.Resources>
 </Application>

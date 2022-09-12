@@ -17,16 +17,11 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Xml.Linq;
-//using Newtonsoft.Json;
-//using static Projekt_koncowy.Data;
 
 namespace Projekt_koncowy
 {
     record Crypto(string id, string symbol, string name, float current_price, int market_cap_rank, float high_24h, float low_24h, float price_change_24h, float ath, DateTime ath_date, DateTime last_updated);
     record Exchange(float result);
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
     public partial class MainWindow : Window
     {
         Dictionary<string, Crypto> Rates = new Dictionary<string, Crypto>();
@@ -117,13 +112,12 @@ namespace Projekt_koncowy
             {
                 DownloadJson();
                 string inputCoin = DropList.Text;
-                /*ListFromDropMenu.Text = Rates.Select(x=>(x.Value.name,x.Value.current_price,x.Value.ath,x.Value.ath_date)).Where(x=>x.name==inputCoin).ToString();*/
-
+            
                 foreach (var item in Rates)
                 {
                     if (item.Value.name == inputCoin)
                     {
-                        //ListFromDropMenu.Text = $"Nazwa coina: {item.Key}{"\n"}  Cena: {item.Value.name}  {item.Value.current_price}, Max Wartość: {item.Value.ath}, Data Max Wartość: {item.Value.ath_date} \n\n";
+                   
                         ListFromDropMenu.Text = $"Nazwa pobranego coina: {item.Value.name}\n" +
                             $"Aktualna cena: {item.Value.current_price}{DropCurencyList.Text}\n" +
                             $"Pozycja na giełdzie: {item.Value.market_cap_rank}\n" +
