@@ -1,0 +1,5 @@
+C:\Users\Kacper\source\repos\Programowanie-Obiektowe-\Kalkulator-Kryptowalut\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\Kalkulator Kryptowalut.csproj.AssemblyReference.cache
+C:\Users\Kacper\source\repos\Programowanie-Obiektowe-\Kalkulator-Kryptowalut\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Kacper\source\repos\Programowanie-Obiektowe-\Kalkulator-Kryptowalut\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Kacper\source\repos\Programowanie-Obiektowe-\Kalkulator-Kryptowalut\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\Kalkulator Kryptowalut_MarkupCompile.cache
+C:\Users\Kacper\source\repos\Programowanie-Obiektowe-\Kalkulator-Kryptowalut\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\Kalkulator Kryptowalut_MarkupCompile.lref
