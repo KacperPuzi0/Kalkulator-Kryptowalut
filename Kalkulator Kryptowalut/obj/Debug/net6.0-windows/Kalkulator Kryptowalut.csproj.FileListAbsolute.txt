@@ -3,3 +3,26 @@ C:\Users\Kacper\source\repos\Programowanie-Obiektowe-\Kalkulator-Kryptowalut\Kal
 C:\Users\Kacper\source\repos\Programowanie-Obiektowe-\Kalkulator-Kryptowalut\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\App.g.cs
 C:\Users\Kacper\source\repos\Programowanie-Obiektowe-\Kalkulator-Kryptowalut\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\Kalkulator Kryptowalut_MarkupCompile.cache
 C:\Users\Kacper\source\repos\Programowanie-Obiektowe-\Kalkulator-Kryptowalut\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\Kalkulator Kryptowalut_MarkupCompile.lref
+C:\Users\Kacper\Source\Repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\Kalkulator Kryptowalut.csproj.AssemblyReference.cache
+C:\Users\Kacper\Source\Repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Kacper\Source\Repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Kacper\Source\Repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\Kalkulator Kryptowalut_MarkupCompile.cache
+C:\Users\Kacper\Source\Repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\Kalkulator Kryptowalut_MarkupCompile.lref
+C:\Users\Kacper\source\repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\bin\Debug\net6.0-windows\Kalkulator Kryptowalut.exe
+C:\Users\Kacper\source\repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\bin\Debug\net6.0-windows\Kalkulator Kryptowalut.deps.json
+C:\Users\Kacper\source\repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\bin\Debug\net6.0-windows\Kalkulator Kryptowalut.runtimeconfig.json
+C:\Users\Kacper\source\repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\bin\Debug\net6.0-windows\Kalkulator Kryptowalut.dll
+C:\Users\Kacper\source\repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\bin\Debug\net6.0-windows\ref\Kalkulator Kryptowalut.dll
+C:\Users\Kacper\source\repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\bin\Debug\net6.0-windows\Kalkulator Kryptowalut.pdb
+C:\Users\Kacper\source\repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\info.g.cs
+C:\Users\Kacper\source\repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\info.baml
+C:\Users\Kacper\source\repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Kacper\source\repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\Kalkulator Kryptowalut.g.resources
+C:\Users\Kacper\source\repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\Kalkulator Kryptowalut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacper\source\repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\Kalkulator Kryptowalut.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\Kalkulator Kryptowalut.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\Kalkulator Kryptowalut.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\Kalkulator Kryptowalut.dll
+C:\Users\Kacper\source\repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\ref\Kalkulator Kryptowalut.dll
+C:\Users\Kacper\source\repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\Kalkulator Kryptowalut.pdb
+C:\Users\Kacper\source\repos\Kalkulator-Kryptowalut-Poprawka\Kalkulator Kryptowalut\obj\Debug\net6.0-windows\Kalkulator Kryptowalut.genruntimeconfig.cache
